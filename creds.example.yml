@@ -1,0 +1,12 @@
+# Ensure your keys and values have a space between them
+# Example:
+# Bad:
+#   access_key:myaccess_key
+# Good:
+#   access_key: myaccess_key 
+
+#Testnet API Keys -Kevin Lai
+prod:
+  access_key: UFBVUY21ZzISQ50KjBrDivkzDkHGvgn1QhTwa6njgplexHqjGtllHYFEOuRBHsTC
+  secret_key: 5Wow4k0TSCPE9SEDRXLOgF1Cc3Lp3MfG7T4sLxHs7lcol5doD8GosyTkT6EkbxIe
+
